@@ -10,6 +10,8 @@
 
 Anteriormente [@dsandovalm](https://github.com/dsandovalm/dsandovalm) 
 
+![Soy yo!](https://github.com/dsandovalm/dsandovalm/blob/main/avatar_git.png)
+
 ## Skills en
 
 - Javascript
