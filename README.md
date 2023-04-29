@@ -3,8 +3,11 @@
 ## 20 • 🇨🇴 
 
 📌 • Bogotá, Colombia
+
 📌 • Ibagué, Colombia
+
 💻 • Web Dev
+
 Anteriormente [@dsandovalm](https://github.com/dsandovalm/dsandovalm) 
 
 ## Skills en
