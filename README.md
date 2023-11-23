@@ -1,14 +1,16 @@
 # Aqui vamos
 
-## 21 • 🇨🇴 
+Ya no me llamo más *teilhux*, ahora soy Sol
+
+Anteriormente [@dsandovalm](https://github.com/dsandovalm/dsandovalm) (Perdí el acceso a la cuenta)
+
+## 22 • 🇨🇴 
 
 📌 • Bogotá, Colombia
 
 📌 • Ibagué, Colombia
 
 💻 • Web Dev
-
-Anteriormente [@dsandovalm](https://github.com/dsandovalm/dsandovalm) 
 
 ![Soy yo!](https://github.com/dsandovalm/dsandovalm/blob/main/avatar_git.png)
 
